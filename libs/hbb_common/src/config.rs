@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["www.lingyunapi.dpdns.org"];
-pub const RS_PUB_KEY: &str = "IN4RE6xqRkIe8CNdFGMoygwXQEaECYlFdFn4YkcWpHE=";
+pub const RS_PUB_KEY: &str = "gb+uQhJEXrEQEUXTSGewINQT7idra65wYjSHewgSh2o=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
