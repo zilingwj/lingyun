@@ -106,7 +106,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.lingyunapi.dpdns.org"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["lingyunapi.dpdns.org"];
 pub const RS_PUB_KEY: &str = "7xU03yrqXcdhImOVcHgXnNstPatf6pFtmkn88jzxiY8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
